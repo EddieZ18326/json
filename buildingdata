@@ -1,10 +1,3 @@
 [
- {
-   "building id": 1477,
-   "percent content damage": 4,
-   "content": 3964,
-   "COORDINATES": [-91.6651, 41.9654],
-   "percent structure damage": 12,
-   "structure": 5946
- }
+  {"ADDRESS":"939 ELLIS ST","RACKS":2,"SPACES":4,"COORDINATES":[-122.42177834,37.78346622]}
 ]
